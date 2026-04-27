@@ -1,6 +1,6 @@
 # 1.Experimental verification of Signal sampling using various types
 # Aim
-Write a simple Python program for the experimental verification of Signal sampling using various types.
+To Write a simple Python program for the experimental verification of Signal sampling using various types.
 # Tools required
 ```
 Google Colab
@@ -71,10 +71,8 @@ plt.show()
 
 # Results
 
-<img width="1624" height="973" alt="Screenshot 2026-04-21 092013" src="https://github.com/user-attachments/assets/14734dbc-f80c-4f5a-a7e6-54306407640c" />
+A simple python program for the experimental verification of Signal sampling using various types successfully generated.
 
 
-# Hardware experiment output waveform.
 
-<img width="1624" height="973" alt="Screenshot 2026-04-21 092013" src="https://github.com/user-attachments/assets/76fa4276-41a6-45c1-a692-7a625473c404" />
 
